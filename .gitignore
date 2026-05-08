@@ -1,0 +1,6 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Notebook editor metadata directory
+.ipynb/
+!.ipynb/*.ipynb
