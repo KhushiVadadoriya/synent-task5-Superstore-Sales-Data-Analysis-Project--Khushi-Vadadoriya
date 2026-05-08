@@ -3,4 +3,5 @@
 
 # Notebook editor metadata directory
 .ipynb/
+!.ipynb/
 !.ipynb/*.ipynb
